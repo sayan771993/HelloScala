@@ -2,9 +2,9 @@ package demo
 
 object Demo {
 
-  def masdsin(args: Array[String]){
+  def main(args: Array[String]){
 
-    prinsdsdstln("Hello Scala 2 changes jhgjh jghf");
+    println("Hello Scala 5th Commit");
   }
 
 }
